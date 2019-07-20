@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "880686802205",
+    "firebase_url": "https://family-gps-tracker-18253.firebaseio.com",
+    "project_id": "family-gps-tracker-18253",
+    "storage_bucket": "family-gps-tracker-18253.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880686802205:android:84a38ced5c50dc17",
+        "android_client_info": {
+          "package_name": "com.tracker.tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880686802205-otpv5m0dadpg31jtor7luc3eeadv2a07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuHMl3lg2GOBJVdCVhYgQCMRZgymNUupc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
